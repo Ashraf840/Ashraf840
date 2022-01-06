@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Tanjim Ashraf**
 - 👀 I’m interested in machine learning, artificial intelligence, deep learning.
-- 🌱 I’m currently learning full stack web development using python/django
+- 🌱 I’m currently learning full stack web development using FARM stack & working with the Python/Django.
 - 💞️ I’m looking to collaborate on open source django projects.
 - 📫 How to reach me: shift2unleashed2011@gmail.com
 
